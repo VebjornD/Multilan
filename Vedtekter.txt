@@ -75,7 +75,9 @@ VEDTEKTER MULTILAN
         Forslag til endring av vedtektene kan fremmes på et årsmøte. 
         En vedtektsendring trer ikke i kraft før etter årsmøtet den vedtas på er hevet, med mindre årsmøtet vedtar noe annet. 
 
-    §12 Alle vedtak i MultiLANs organer krever allminnelig flertall hvis ikke annet er spesifisert i vedtektene. 
+    §12 Alle vedtak i MultiLANs organer krever alminnelig flertall hvis ikke annet er spesifisert i vedtektene.
+        Dersom det stilles krav til størrelse på flertall for at et forslag skal vedtas, fungerer en avholden stemme som en stemme mot. 
+        Det er fordi flertall i disse tilfellene betyr flertallet av alle stemmeberettigede.
         Ved stemmelikhet i styret eller på årsmøtet avgjør leders stemme. Regnskapsår skal følge kalenderår, 
         medlemsår skal gjelde fra innmelding til og med påfølgende årsmøte. 
 
@@ -83,3 +85,6 @@ VEDTEKTER MULTILAN
         et påfølgende ekstraordinært årsmøte hvor oppløsning er eneste sak som skal behandles. 
         Ved oppløsning bestemmer årsmøtet disponering av MultiLANs eiendeler og midler. 
 
+    §14 MultiLAN disponerer en sekundærkonto hvorav avsatte midler er til krisesituasjoner. 
+        Det skal til enhver tid være minimum kr. 5000 tilgjengelig på denne kontoen.
+        Uttak og bruk av denne kontoen kan kun forekomme etter vedtak fra enten Årsmøte eller ekstraordinært årsmøte.
